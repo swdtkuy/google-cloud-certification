@@ -1,3 +1,4 @@
+- TOC
 {:toc}
 
 ## Welcome to GitHub Pages
